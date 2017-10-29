@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: gitanon/jekyll-netlify-cms
   branch: master # Branch to update (master by default)
   site_domain: engineer-shirley-78143.netlify.com
