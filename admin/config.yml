@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: gitanon/jekyll-netlify-cms
+  repo: gitanon/jekyll-netlify-cms-minimal
   branch: master # Branch to update (master by default)
-  site_domain: engineer-shirley-78143.netlify.com
+  site_domain: peon-badger-81306.netlify.com
 
 publish_mode: editorial_workflow
 
