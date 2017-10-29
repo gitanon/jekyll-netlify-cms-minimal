@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: gitanon/jekyll-netlify-cms
   branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
